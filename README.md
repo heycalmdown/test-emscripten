@@ -25,4 +25,5 @@ RuntimeError: unreachable
     at dynCall_ii_3 (eval at makeDynCaller (/Users/kson/Development/test/test-emscripten/dist/my-module.js:9:25089), <anonymous>:2:12)
     at Object.sayHell (eval at new_ (/Users/kson/Development/test/test-emscripten/dist/my-module.js:9:20529), <anonymous>:5:10)
     at /Users/kson/Development/test/test-emscripten/dist/index.js:5:12
+Hello from your wasm module~~
 ```

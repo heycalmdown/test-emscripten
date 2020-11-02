@@ -1,0 +1,6 @@
+{
+  "name": "my-worldchanging-project",
+  "scripts": {
+    "build": "docker run --rm -v $(pwd):/src trzeci/emscripten ./build.sh"
+  }
+}
